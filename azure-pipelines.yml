@@ -15,7 +15,7 @@ variables:
   webAppName: 'TestDevOpsWithJavaTA2'
 
   # Environment name
-  environmentName: 'TestDevOpsWithJavaTA2'
+  environmentName: 'TestDevOpsWithJavaTA'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
