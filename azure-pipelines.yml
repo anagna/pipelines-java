@@ -12,10 +12,10 @@ variables:
   azureSubscription: '454efd92-899e-419e-908c-405d0a7c5795'
 
   # Web app name
-  webAppName: 'TestDevOpsWithJavaTA'
+  webAppName: 'TestDevOpsWithJavaTA2'
 
   # Environment name
-  environmentName: 'TestDevOpsWithJavaTA'
+  environmentName: 'TestDevOpsWithJavaTA2'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
